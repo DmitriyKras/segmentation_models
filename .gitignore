@@ -1,0 +1,10 @@
+.vscode
+.ipynb_checkpoints
+.vs
+.idea
+__pycache__
+_tmp
+*.onnx
+*.pt
+*.json
+*.png
